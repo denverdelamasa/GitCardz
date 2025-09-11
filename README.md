@@ -28,3 +28,30 @@ Think of it as a giant deck of cards — each one contributed by people from aro
 
 ## 📬 Stay Updated
 Watch this repo ⭐ for updates and be ready to submit your card once the project opens for contributions!
+
+---
+
+## ⚙ Contributor Workflow
+
+[1] Fork GitCardz Repo
+            |
+            v
+[2] Clone your fork locally
+            |
+            v
+[3] Create a new branch
+            |
+            v
+[4] Make changes (add your card to contributors.json)
+            |
+            v
+[5] Commit + Push branch to your fork
+            |
+            v
+[6] Open Pull Request (PR) from your fork’s branch
+            |
+            v
+[7] Owner reviews + merges PR into main
+            |
+            v
+🎉 Your card is now part of GitCardz!
