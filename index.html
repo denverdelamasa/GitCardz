@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>GitCardz — Community Cards</title>
+        <script src="https://cdn.tailwindcss.com"></script>
+    </head>
+    <body class="bg-slate-900 text-slate-100">
+        <main class="max-w-6xl mx-auto p-6">
+            <div class="w-full min-h-[40vh] justify-center items-center flex flex-col text-center">
+                <h1 class="text-6xl font-bold">GitCardz</h1>
+                <p class="text-slate-400 mt-6">A collaborative wall of profile cards made with Tailwind — thanks to everyone who contributed so far. 🚀</p>
+                <p class="text-slate-400 mt-2">Want to be on the wall? Fork the repo, add your card to <code>data/contributors.json</code>, and open a PR — guide in CONTRIBUTING.md.</p>
+            </div>
+            <div id="cards-container" class="grid gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3"></div>
+        </main>
+        <script src="/app.js"></script>
+    </body>
+</html>
