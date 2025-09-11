@@ -33,11 +33,11 @@ Watch this repo ⭐ for updates and be ready to submit your card once the projec
 
 ## ⚙ Contributor Workflow
 
-[x] Fork GitCardz Repo
-[x] Clone your fork locally
-[x] Create a new branch
-[x] Make changes (add your card to contributors.json)
-[x] Commit + Push branch to your fork
-[x] Open Pull Request (PR) from your fork’s branch
-[x] Owner reviews + merges PR into main
-🎉 Your card is now part of GitCardz!
+- [x] Fork GitCardz Repo
+- [x] Clone your fork locally
+- [x] Create a new branch
+- [x] Make changes (add your card to contributors.json)
+- [x] Commit + Push branch to your fork
+- [x] Open Pull Request (PR) from your fork’s branch
+- [x] Owner reviews + merges PR into main
+- 🎉 Your card is now part of GitCardz!
