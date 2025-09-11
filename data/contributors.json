@@ -6,14 +6,5 @@
     "bio": "Web Dev, Designer, and Tech Support",
     "tags": ["Tailwind", "React", "Next.js", "HTML5"],
     "containerClasses": "p-5 bg-black shadow-lg hover:scale-105 transition-transform duration-300 border border-gray-900 font-gray-100"
-  },
-
-  {
-    "username": "nightmare4687",
-    "name": "nightmare4687",
-    "avatar": "https://avatars.githubusercontent.com/u/000000?v=4",
-    "bio": "testing, first card",
-    "tags": ["Test", "Badge"],
-    "containerClasses": "p-5 bg-slate-800 rounded-2xl shadow-lg"
   }
 ]
