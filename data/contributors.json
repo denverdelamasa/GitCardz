@@ -6,5 +6,13 @@
     "bio": "Web Dev, Designer, and Tech Support",
     "tags": ["Tailwind", "React", "Next.js", "HTML5"],
     "containerClasses": "p-5 bg-black shadow-lg hover:scale-105 transition-transform duration-300 border border-gray-900 font-gray-100"
+  },
+  {
+    "username": "nightmare4687",
+    "name": "nightmare4687",
+    "avatar": "https://avatars.githubusercontent.com/u/230809612?s=400&u=920aae453303ef6ca1308363c0caf9e0c75d3289&v=4",
+    "bio": "Beginner in tech insdustry",
+    "tags": ["html", "Github", "tailwindCSS"],
+    "containerClasses": "p-5 shadow-sm border border-gray-900 rounded-xl bg-gray-700"
   }
 ]
