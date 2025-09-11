@@ -41,7 +41,7 @@ Think of it as a giant deck of cards — each one contributed by people from aro
 1. Clone your fork (or clone the main repo to test locally):
 
 ```bash
-git clone https://github.com/<your-username>/GitCardz.git
+git clone https://github.com/denverdelamasa/GitCardz.git
 cd GitCardz
 ```
 
@@ -78,14 +78,6 @@ cd GitCardz
 ```
 
 > ✏ **Note:** `containerClasses` is optional. If you leave it blank, a default card style will be applied.
-
----
-
-## 📎 Deployment (GitHub Pages)
-
-1. In repo Settings → Pages choose branch `main` and folder `/ (root)` or `/docs` if you prefer.
-2. Save — GitHub will deploy and show a public URL.
-3. After you merge PRs to `main`, the site will auto-update.
 
 ---
 
