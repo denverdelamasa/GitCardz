@@ -14,5 +14,13 @@
     "bio": "Beginner in tech insdustry",
     "tags": ["html", "Github", "tailwindCSS"],
     "containerClasses": "p-5 shadow-sm border border-gray-900 rounded-xl bg-gray-700"
+  },
+  {
+    "username": "synox-G460",
+    "name": "synox",
+    "avatar": "https://avatars.githubusercontent.com/u/89308280?v=4",
+    "bio": "Studying TVL-ICT",
+    "tags": ["html5", "php", "cybersecurity"],
+    "containerClasses": "p-6 rounded-lg hover:scale-98 bg-linear-65 from-red-600 to-gray-900 font-white"
   }
 ]
